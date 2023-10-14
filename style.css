@@ -16,7 +16,7 @@ canvas
     box-shadow: 5px 5px 5px black;
 }
 
-.blue
+#blue
 {
     font-size: 45px;
     text-align: center;
@@ -25,7 +25,7 @@ canvas
     box-shadow: 5px 5px 5px darkblue;
 }
 
-.green
+#green
 {
     text-align: center;
     font-size: 14px;
